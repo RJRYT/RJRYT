@@ -6,7 +6,6 @@
 
 
 ![Discord](https://img.shields.io/discord/772386831433859112?color=%2355f8&label=NCRP%20&logo=r&logoColor=%23f52277&style=plastic)
-![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/rjryt/RJRYT-OFFICIAL-BOT)
 
 
 ![RJRYT](https://img.shields.io/badge/RJRYT%20-Owner%20of%20New%20City%20Roleplay%20-green)
