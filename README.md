@@ -11,6 +11,7 @@
 ![RJRYT](https://img.shields.io/badge/RJRYT%20-Owner%20of%20New%20City%20Roleplay%20-green)
 ![PingPong uptime (last 30 days)](https://img.shields.io/pingpong/uptime/sp_2e80bc00b6054faeb2b87e2464be337e?color=%23ff66ff&label=Updates%20&logo=r&logoColor=%23ff3366&style=plastic)
 
+-----
 
 <h3>Languages :-</h3>
 
@@ -18,6 +19,8 @@
 ![pawn](https://img.shields.io/badge/Pawn-95.00%25-orange)
 ![Html](https://img.shields.io/badge/HTML-95.05%25-brightgreen)
 ![Css](https://img.shields.io/badge/CSS-65.00%25-blue)
+
+-----
 
 <h3>Contact me :-</h3>
 
@@ -27,10 +30,14 @@
 <a href='https://rjryt.tech/' target="_blank"><img alt='StackShare' src='https://img.shields.io/badge/RJRYT_OFFICIAL -100000?style=social&logo=StackShare&logoColor=3F9AD3&labelColor=7F3C3C&color=623D3D'/></a>
 <a href='https://replit.com/@somaliyo' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/Somaliyo-100000?style=social&logo=Replit&logoColor=320B0B&labelColor=black&color=black'/></a>
 
+-----
+
 <h3>Statistics :-</h3>
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RJRYT&theme=blue-green)
 ![stats](https://github-readme-stats.vercel.app/api?username=RJRYT&theme=blue-green)
+
+-----
 
 <h3>Visiters:-</h3>
 
