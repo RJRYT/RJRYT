@@ -31,3 +31,9 @@
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RJRYT&theme=blue-green)
 ![stats](https://github-readme-stats.vercel.app/api?username=RJRYT&theme=blue-green)
+
+<h3>Visiters:-</h3>
+
+<h4 align="center">Visitor's</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{cruz-gaming}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
