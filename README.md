@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**RJRYT/RJRYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **👋 Hi, I’m RJRYT**
+- **👀 I’m interested in coding**
+- **🌱 I’m currently learning javascript**
+- **📫 How to reach me [RJRYT](https://rjryt.tech/) or contact me in discord NAME:- RJRYT#7873**
+- **🔰 JOIN MY OFFICIAL[DISCORD SERVER](https://discord.gg/zfKNeT5gwQ)**
+- **💢 support [TEAM CODROID](https://discord.gg/XcsZXk6uFF)**
+- **💠 Join [NEW CITY ROLEPLAY](https://discord.gg/ZGsN5VMayx)**
+- **🤖 invite my public bot [woebot](https://discord.com/api/oauth2/authorize?client_id=882451949935534121&permissions=1074120776&scope=bot%20applications.commands)**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Discord](https://img.shields.io/discord/772386831433859112?color=%2355f8&label=NCRP%20&logo=r&logoColor=%23f52277&style=plastic)
+![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/rjryt/RJRYT-OFFICIAL-BOT)
+
+
+![RJRYT](https://img.shields.io/badge/RJRYT%20-Owner%20of%20New%20City%20Roleplay%20-green)
+![PingPong uptime (last 30 days)](https://img.shields.io/pingpong/uptime/sp_2e80bc00b6054faeb2b87e2464be337e?color=%23ff66ff&label=Updates%20&logo=r&logoColor=%23ff3366&style=plastic)
+
+
+**Languages**
+
+![Javascript](https://img.shields.io/badge/Javascript%20-75.00%25-yellow)
+![pawn](https://img.shields.io/badge/Pawn-95.00%25-orange)
+![Html](https://img.shields.io/badge/HTML-95.05%25-brightgreen)
+![Css](https://img.shields.io/badge/CSS-65.00%25-blue)
+
+
+**Social media**
+
+<a href='https://github.com/RJRYT' target="_blank"><img alt='Github' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=Github&logoColor=010818&labelColor=black&color=black'/></a>
+<a href='https://m.youtube.com/channel/UCHbfnbCUy3eKoIDmln6jnnw' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=YouTube&logoColor=ED1F14&labelColor=C2D3D0&color=13CAE7'/></a>
+<a href='https://discord.com/channels/@me/840554324160544789' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=Discord&logoColor=1A54D3&labelColor=black&color=black'/></a>
+<a href='https://rjryt.tech/' target="_blank"><img alt='StackShare' src='https://img.shields.io/badge/RJRYT_OFFICIAL -100000?style=social&logo=StackShare&logoColor=3F9AD3&labelColor=7F3C3C&color=623D3D'/></a>
+<a href='https://replit.com/@somaliyo' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/Somaliyo-100000?style=social&logo=Replit&logoColor=320B0B&labelColor=black&color=black'/></a>
+
+
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RJRYT&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api?username=RJRYT&theme=blue-green)
