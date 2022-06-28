@@ -1,12 +1,5 @@
+<h1>Hi There Iam RJRYT </h1>
 
-- **👋 Hi, I’m RJRYT**
-- **👀 I’m interested in coding**
-- **🌱 I’m currently learning javascript**
-- **📫 How to reach me [RJRYT](https://rjryt.tech/) or contact me in discord NAME:- RJRYT#7873**
-- **🔰 JOIN MY OFFICIAL[DISCORD SERVER](https://discord.gg/zfKNeT5gwQ)**
-- **💢 support [TEAM CODROID](https://discord.gg/XcsZXk6uFF)**
-- **💠 Join [NEW CITY ROLEPLAY](https://discord.gg/ZGsN5VMayx)**
-- **🤖 invite my public bot [woebot](https://discord.com/api/oauth2/authorize?client_id=882451949935534121&permissions=1074120776&scope=bot%20applications.commands)**
 
 
 ![Discord](https://img.shields.io/discord/772386831433859112?color=%2355f8&label=NCRP%20&logo=r&logoColor=%23f52277&style=plastic)
