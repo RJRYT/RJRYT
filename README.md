@@ -34,5 +34,5 @@
 
 <h3>Visiters:-</h3>
 
-<p align="center"><img src="https://profile-counter.glitch.me/RJRYT/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/RJRYT/count.svg" alt="Visitor's Count | RJRYT" /></p>
 <br/>
