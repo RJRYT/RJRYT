@@ -37,6 +37,10 @@
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RJRYT&theme=blue-green)
 ![stats](https://github-readme-stats.vercel.app/api?username=RJRYT&theme=blue-green)
 
+<a href='https://github.com/RJRYT'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RJRYT&theme=material-palenight&layout=compact" />
+</a>
+
 -----
 
 <h3>Visiters:-</h3>
