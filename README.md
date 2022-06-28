@@ -13,7 +13,7 @@
 ![PingPong uptime (last 30 days)](https://img.shields.io/pingpong/uptime/sp_2e80bc00b6054faeb2b87e2464be337e?color=%23ff66ff&label=Updates%20&logo=r&logoColor=%23ff3366&style=plastic)
 
 
-**Languages**
+**Languages:-**
 
 ![Javascript](https://img.shields.io/badge/Javascript%20-75.00%25-yellow)
 ![pawn](https://img.shields.io/badge/Pawn-95.00%25-orange)
@@ -21,7 +21,7 @@
 ![Css](https://img.shields.io/badge/CSS-65.00%25-blue)
 
 
-**Social media**
+**Contact me:-**
 
 <a href='https://github.com/RJRYT' target="_blank"><img alt='Github' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=Github&logoColor=010818&labelColor=black&color=black'/></a>
 <a href='https://m.youtube.com/channel/UCHbfnbCUy3eKoIDmln6jnnw' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=YouTube&logoColor=ED1F14&labelColor=C2D3D0&color=13CAE7'/></a>
