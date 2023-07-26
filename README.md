@@ -27,7 +27,7 @@
 <a href='https://github.com/RJRYT' target="_blank"><img alt='Github' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=Github&logoColor=010818&labelColor=black&color=black'/></a>
 <a href='https://m.youtube.com/channel/UCHbfnbCUy3eKoIDmln6jnnw' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=YouTube&logoColor=ED1F14&labelColor=C2D3D0&color=13CAE7'/></a>
 <a href='https://discord.com/channels/@me/840554324160544789' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=Discord&logoColor=1A54D3&labelColor=black&color=black'/></a>
-<a href='https://rjryt.tech/' target="_blank"><img alt='StackShare' src='https://img.shields.io/badge/RJRYT_OFFICIAL -100000?style=social&logo=StackShare&logoColor=3F9AD3&labelColor=7F3C3C&color=623D3D'/></a>
+<a href='https://rjryt.me/' target="_blank"><img alt='StackShare' src='https://img.shields.io/badge/RJRYT_OFFICIAL -100000?style=social&logo=StackShare&logoColor=3F9AD3&labelColor=7F3C3C&color=623D3D'/></a>
 <a href='https://replit.com/@somaliyo' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/Somaliyo-100000?style=social&logo=Replit&logoColor=320B0B&labelColor=black&color=black'/></a>
 
 -----
