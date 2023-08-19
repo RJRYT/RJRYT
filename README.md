@@ -1,43 +1,101 @@
-<h1>Hi There Iam RJRYT </h1>
+<h1>Hello, I'm RJRYT</h1>
 
-<p>Owner of New City Roleplay (SA-MP) Familer with front end web developement, samp developement</p>
+<p>A passionate full stack developer(MERN). Visit my <a href='https://rjryt.me'>Portfolio</a> to view my projects. I'm always open to learning new things and working with other developers. You can reach me through my website or Discord. ☺️</p>
 
-<p>Visit my <a href='https://replit.com/@somaliyo'>Repl</a> to get more website templates</p>
+📪 How to reach me:
 
+<div align="left">
+  <a href="https://twitter.com/rjryt_official" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/rjryt_official" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="20" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/rjryt_official" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="20" alt="twitter logo"  />
+  </a>
+</div>
 
-![Discord](https://img.shields.io/discord/772386831433859112?color=%2355f8&label=NCRP%20&logo=r&logoColor=%23f52277&style=plastic)
+###
 
+<h3>Deals with:</h3>
 
-![RJRYT](https://img.shields.io/badge/RJRYT%20-Owner%20of%20New%20City%20Roleplay%20-green)
-![PingPong uptime (last 30 days)](https://img.shields.io/pingpong/uptime/sp_2e80bc00b6054faeb2b87e2464be337e?color=%23ff66ff&label=Updates%20&logo=r&logoColor=%23ff3366&style=plastic)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="20" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20" alt="azure logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="20" alt="digitalocean logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="20" alt="discordjs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="express logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20" alt="firebase logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="20" alt="googlecloud logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="20" alt="heroku logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="20" alt="markdown logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="20" alt="nginx logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="20" alt="ssh logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
+</div>
 
------
+###
 
-<h3>Languages :-</h3>
+<h3>Connect me:</h3>
 
-![Javascript](https://img.shields.io/badge/Javascript%20-75.00%25-yellow)
-![pawn](https://img.shields.io/badge/Pawn-95.00%25-orange)
-![Html](https://img.shields.io/badge/HTML-95.05%25-brightgreen)
-![Css](https://img.shields.io/badge/CSS-65.00%25-blue)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="20" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="20" alt="twitter logo"  />
+</div>
 
------
-
-<h3>Contact me :-</h3>
-
-<a href='https://github.com/RJRYT' target="_blank"><img alt='Github' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=Github&logoColor=010818&labelColor=black&color=black'/></a>
-<a href='https://m.youtube.com/channel/UCHbfnbCUy3eKoIDmln6jnnw' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=YouTube&logoColor=ED1F14&labelColor=C2D3D0&color=13CAE7'/></a>
-<a href='https://discord.com/channels/@me/840554324160544789' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/RJRYT-100000?style=social&logo=Discord&logoColor=1A54D3&labelColor=black&color=black'/></a>
-<a href='https://rjryt.me/' target="_blank"><img alt='StackShare' src='https://img.shields.io/badge/RJRYT_OFFICIAL -100000?style=social&logo=StackShare&logoColor=3F9AD3&labelColor=7F3C3C&color=623D3D'/></a>
-<a href='https://replit.com/@somaliyo' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/Somaliyo-100000?style=social&logo=Replit&logoColor=320B0B&labelColor=black&color=black'/></a>
-
------
+###
 
 <h3>Statistics :-</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RJRYT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RJRYT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=RJRYT&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+</div>
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RJRYT&theme=blue-green)
-![stats](https://github-readme-stats.vercel.app/api?username=RJRYT&theme=blue-green)
-
------
+###
 
 <h3>Visiters:-</h3>
 
