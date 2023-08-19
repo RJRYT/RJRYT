@@ -91,11 +91,14 @@
           <a href="https://twitter.com/rjryt_official" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="20" alt="twitter logo"  />
           </a>
+            <a href="https://replit.com/@somaliyo" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Replit&logo=replit&label=&color=F26207&logoColor=white&labelColor=&style=flat" height="20" alt="replit logo"  />
+          </a>
 </div>
 
 ###
 
-<h3>Statistics :-</h3>
+<h3>Statistics:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RJRYT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RJRYT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
@@ -104,7 +107,7 @@
 
 ###
 
-<h3>Visiters:-</h3>
+<h3>Visiters:</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/RJRYT/count.svg" alt="Visitor's Count | RJRYT" /></p>
 <br/>
