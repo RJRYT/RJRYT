@@ -1,6 +1,6 @@
 <h1>Hello, I'm RJRYT</h1>
 
-<p>A passionate full stack developer(MERN). Visit my <a href='https://rjryt.me'>Portfolio</a> to view my projects. I'm always open to learning new things and working with other developers. You can reach me through my website or Discord. ☺️</p>
+<p>A passionate full stack developer(MERN). Visit my <a href='https://rjryt.github.io'>Portfolio</a> to view my projects. I'm always open to learning new things and working with other developers. You can reach me through my website or Discord. ☺️</p>
 
 📪 How to reach me:
 
