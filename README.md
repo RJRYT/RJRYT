@@ -113,3 +113,12 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/RJRYT/count.svg" alt="Visitor's Count | RJRYT" /></p>
 <br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RJRYT&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rjryt) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/robinjra) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rjryt) 
+
+  
