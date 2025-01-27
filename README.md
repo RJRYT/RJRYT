@@ -104,7 +104,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RJRYT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RJRYT&locale=en&hide_title=false&hide=css,scss,html,pawn&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=RJRYT&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app?user=RJRYT&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
 </div>
 
 ###
