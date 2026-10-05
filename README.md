@@ -77,7 +77,7 @@ I love building scalable web applications and exploring new technologies. Check 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RJRYT&show_icons=true&theme=radical&hide_border=true" height="160px" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RJRYT&theme=radical&hide_border=true" height="160px" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RJRYT&theme=radical&hide_border=true" height="160px" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ I love building scalable web applications and exploring new technologies. Check 
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RJRYT&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-repo.vercel.app/?username=RJRYT&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 </p>
 
 ## 💖 Support My Work  
